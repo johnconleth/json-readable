@@ -13,7 +13,7 @@ else {
     ?>
         <form action="<?=$_SERVER['PHP_SELF']?>" method="post">
             <textarea name="json" cols="40" rows="10"></textarea>
-            <input type="submit" name="submit" value="MAKE PRETTY!"/>
+            <input type="submit" name="submit" value="MAKE READABLE"/>
         </form>
     <?php
 }
