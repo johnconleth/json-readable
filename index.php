@@ -1,5 +1,5 @@
 <html>
-    <title>Pretty JSON</title>
+    <title>JSON Readable</title>
     <body>
 <?php
 if(isset($_POST['json'])){
